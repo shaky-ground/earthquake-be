@@ -1,0 +1,1434 @@
+{
+  "metadata": {
+    "generated": "1731489640000",
+    "url": "https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&endtime=20241113&starttime=20241112",
+    "title": "USGS Earthquakes",
+    "status": 200,
+    "api": "1.14.1",
+    "count": 158
+  },
+  "features": [
+    {
+      "properties": {
+        "title": "M 1.1 - 3 km  of The Geysers, CA",
+        "place": "3 km  of The Geysers, CA",
+        "mag": 1.07,
+        "time": 1731455575540,
+        "updated": 1731457037351
+      }
+    },
+    {
+      "properties": {
+        "title": "M 1.5 - 48 km E of Chase, Alaska",
+        "place": "48 km E of Chase, Alaska",
+        "mag": 1.5,
+        "time": 1731454887519,
+        "updated": 1731455015936
+      }
+    },
+    {
+      "properties": {
+        "title": "M 3.4 - 84 km N of Charlotte Amalie, U.S. Virgin Islands",
+        "place": "84 km N of Charlotte Amalie, U.S. Virgin Islands",
+        "mag": 3.36,
+        "time": 1731454873180,
+        "updated": 1731456228140
+      }
+    },
+    {
+      "properties": {
+        "title": "M 1.4 Quarry Blast - 8 km S of Mojave, CA",
+        "place": "8 km S of Mojave, CA",
+        "mag": 1.42,
+        "time": 1731452990580,
+        "updated": 1731459243504
+      }
+    },
+    {
+      "properties": {
+        "title": "M 1.9 - 115 km NW of Yakutat, Alaska",
+        "place": "115 km NW of Yakutat, Alaska",
+        "mag": 1.9,
+        "time": 1731450180223,
+        "updated": 1731450285689
+      }
+    },
+    {
+      "properties": {
+        "title": "M 3.4 - 2 km NNE of La Parguera, Puerto Rico",
+        "place": "2 km NNE of La Parguera, Puerto Rico",
+        "mag": 3.36,
+        "time": 1731449657600,
+        "updated": 1731453859199
+      }
+    },
+    {
+      "properties": {
+        "title": "M 1.9 - 1 km SSW of Indios, Puerto Rico",
+        "place": "1 km SSW of Indios, Puerto Rico",
+        "mag": 1.88,
+        "time": 1731449404980,
+        "updated": 1731454148820
+      }
+    },
+    {
+      "properties": {
+        "title": "M 0.8 - 2 km WNW of The Geysers, CA",
+        "place": "2 km WNW of The Geysers, CA",
+        "mag": 0.77,
+        "time": 1731449310620,
+        "updated": 1731452068893
+      }
+    },
+    {
+      "properties": {
+        "title": "M 1.9 - 13 km SSE of Volcano, Hawaii",
+        "place": "13 km SSE of Volcano, Hawaii",
+        "mag": 1.85000002,
+        "time": 1731448918220,
+        "updated": 1731449013100
+      }
+    },
+    {
+      "properties": {
+        "title": "M 1.8 - 53 km WNW of Nanwalek, Alaska",
+        "place": "53 km WNW of Nanwalek, Alaska",
+        "mag": 1.8,
+        "time": 1731448460299,
+        "updated": 1731448598722
+      }
+    },
+    {
+      "properties": {
+        "title": "M 4.1 - 119 km NNW of Dili, Timor Leste",
+        "place": "119 km NNW of Dili, Timor Leste",
+        "mag": 4.1,
+        "time": 1731448284814,
+        "updated": 1731449558040
+      }
+    },
+    {
+      "properties": {
+        "title": "M 2.2 - 1 km NNE of Estacada, Oregon",
+        "place": "1 km NNE of Estacada, Oregon",
+        "mag": 2.2339096069335938,
+        "time": 1731447049460,
+        "updated": 1731451460987
+      }
+    },
+    {
+      "properties": {
+        "title": "M 0.8 - 15 km WSW of Searles Valley, CA",
+        "place": "15 km WSW of Searles Valley, CA",
+        "mag": 0.76,
+        "time": 1731445615780,
+        "updated": 1731447735297
+      }
+    },
+    {
+      "properties": {
+        "title": "M 2.5 - 13 km SE of Pāhala, Hawaii",
+        "place": "13 km SE of Pāhala, Hawaii",
+        "mag": 2.49000001,
+        "time": 1731445604230,
+        "updated": 1731445698510
+      }
+    },
+    {
+      "properties": {
+        "title": "M 3.0 - 6 km SSE of Pāhala, Hawaii",
+        "place": "6 km SSE of Pāhala, Hawaii",
+        "mag": 3.0,
+        "time": 1731445293330,
+        "updated": 1731445394550
+      }
+    },
+    {
+      "properties": {
+        "title": "M 1.8 - 13 km NE of Pāhala, Hawaii",
+        "place": "13 km NE of Pāhala, Hawaii",
+        "mag": 1.77,
+        "time": 1731444971140,
+        "updated": 1731455166300
+      }
+    },
+    {
+      "properties": {
+        "title": "M 0.9 - 1 km  of The Geysers, CA",
+        "place": "1 km  of The Geysers, CA",
+        "mag": 0.91,
+        "time": 1731444291980,
+        "updated": 1731444386762
+      }
+    },
+    {
+      "properties": {
+        "title": "M 1.6 Quarry Blast - 16 km NNE of Apple Valley, CA",
+        "place": "16 km NNE of Apple Valley, CA",
+        "mag": 1.55,
+        "time": 1731444051020,
+        "updated": 1731448890864
+      }
+    },
+    {
+      "properties": {
+        "title": "M 0.6 - 11 km NNE of Ashford, Washington",
+        "place": "11 km NNE of Ashford, Washington",
+        "mag": 0.61,
+        "time": 1731443914530,
+        "updated": 1731460725490
+      }
+    },
+    {
+      "properties": {
+        "title": "M 1.8 Quarry Blast - 5 km E of Butte, Montana",
+        "place": "5 km E of Butte, Montana",
+        "mag": 1.76,
+        "time": 1731441720890,
+        "updated": 1731447917600
+      }
+    },
+    {
+      "properties": {
+        "title": "M 2.2 - 65 km WNW of Anchor Point, Alaska",
+        "place": "65 km WNW of Anchor Point, Alaska",
+        "mag": 2.2,
+        "time": 1731441657047,
+        "updated": 1731441843551
+      }
+    },
+    {
+      "properties": {
+        "title": "M 1.0 - 11 km NE of Ocotillo Wells, CA",
+        "place": "11 km NE of Ocotillo Wells, CA",
+        "mag": 0.96,
+        "time": 1731441307500,
+        "updated": 1731448188521
+      }
+    },
+    {
+      "properties": {
+        "title": "M 1.0 - 6 km NW of San Jacinto, CA",
+        "place": "6 km NW of San Jacinto, CA",
+        "mag": 1.02,
+        "time": 1731440639050,
+        "updated": 1731447770301
+      }
+    },
+    {
+      "properties": {
+        "title": "M 2.8 - 12 km W of Chignik Lake, Alaska",
+        "place": "12 km W of Chignik Lake, Alaska",
+        "mag": 2.8,
+        "time": 1731440332013,
+        "updated": 1731447873040
+      }
+    },
+    {
+      "properties": {
+        "title": "M 1.7 - 12 km NW of Susitna, Alaska",
+        "place": "12 km NW of Susitna, Alaska",
+        "mag": 1.7,
+        "time": 1731440136956,
+        "updated": 1731440251592
+      }
+    },
+    {
+      "properties": {
+        "title": "M 0.9 - 18 km WSW of Petersville, Alaska",
+        "place": "18 km WSW of Petersville, Alaska",
+        "mag": 0.9,
+        "time": 1731439915073,
+        "updated": 1731440021823
+      }
+    },
+    {
+      "properties": {
+        "title": "M 0.9 Explosion - 9 km SSE of Shelton, Washington",
+        "place": "9 km SSE of Shelton, Washington",
+        "mag": 0.86,
+        "time": 1731437388760,
+        "updated": 1731442354490
+      }
+    },
+    {
+      "properties": {
+        "title": "M 2.0 - 7 km SE of Pony, Montana",
+        "place": "7 km SE of Pony, Montana",
+        "mag": 1.98,
+        "time": 1731436590460,
+        "updated": 1731438628940
+      }
+    },
+    {
+      "properties": {
+        "title": "M 1.6 - 13 km N of Susitna, Alaska",
+        "place": "13 km N of Susitna, Alaska",
+        "mag": 1.6,
+        "time": 1731435399953,
+        "updated": 1731435515706
+      }
+    },
+    {
+      "properties": {
+        "title": "M 1.6 - 9 km SSE of Clam Gulch, Alaska",
+        "place": "9 km SSE of Clam Gulch, Alaska",
+        "mag": 1.6,
+        "time": 1731435289783,
+        "updated": 1731435355124
+      }
+    },
+    {
+      "properties": {
+        "title": "M 1.5 - 1 km NE of The Geysers, CA",
+        "place": "1 km NE of The Geysers, CA",
+        "mag": 1.53,
+        "time": 1731435207410,
+        "updated": 1731436335938
+      }
+    },
+    {
+      "properties": {
+        "title": "M 2.0 - 5 km W of Tiptonville, Tennessee",
+        "place": "5 km W of Tiptonville, Tennessee",
+        "mag": 2.01999998,
+        "time": 1731434563610,
+        "updated": 1731456867837
+      }
+    },
+    {
+      "properties": {
+        "title": "M 2.3 - 21 km SSW of Chenega, Alaska",
+        "place": "21 km SSW of Chenega, Alaska",
+        "mag": 2.3,
+        "time": 1731434194824,
+        "updated": 1731437379445
+      }
+    },
+    {
+      "properties": {
+        "title": "M 2.3 - 12 km SE of Pāhala, Hawaii",
+        "place": "12 km SE of Pāhala, Hawaii",
+        "mag": 2.28999996,
+        "time": 1731434058120,
+        "updated": 1731434198480
+      }
+    },
+    {
+      "properties": {
+        "title": "M 0.8 - 25 km N of Four Mile Road, Alaska",
+        "place": "25 km N of Four Mile Road, Alaska",
+        "mag": 0.8,
+        "time": 1731433834918,
+        "updated": 1731433954026
+      }
+    },
+    {
+      "properties": {
+        "title": "M 1.6 - 9 km SSE of Borrego Springs, CA",
+        "place": "9 km SSE of Borrego Springs, CA",
+        "mag": 1.55,
+        "time": 1731433766000,
+        "updated": 1731447780302
+      }
+    },
+    {
+      "properties": {
+        "title": "M 0.8 - 60 km W of Clear, Alaska",
+        "place": "60 km W of Clear, Alaska",
+        "mag": 0.8,
+        "time": 1731433336190,
+        "updated": 1731484722619
+      }
+    },
+    {
+      "properties": {
+        "title": "M 1.9 - 61 km N of Petersville, Alaska",
+        "place": "61 km N of Petersville, Alaska",
+        "mag": 1.9,
+        "time": 1731432704812,
+        "updated": 1731432847291
+      }
+    },
+    {
+      "properties": {
+        "title": "M 1.8 - 20 km E of Shoshone, California",
+        "place": "20 km E of Shoshone, California",
+        "mag": 1.8,
+        "time": 1731432104766,
+        "updated": 1731447044346
+      }
+    },
+    {
+      "properties": {
+        "title": "M 1.4 - 16 km WSW of Mammoth Lakes, CA",
+        "place": "16 km WSW of Mammoth Lakes, CA",
+        "mag": 1.39,
+        "time": 1731431020010,
+        "updated": 1731432141440
+      }
+    },
+    {
+      "properties": {
+        "title": "M 1.6 - 17 km NE of Hermleigh, Texas",
+        "place": "17 km NE of Hermleigh, Texas",
+        "mag": 1.6,
+        "time": 1731430094817,
+        "updated": 1731433311386
+      }
+    },
+    {
+      "properties": {
+        "title": "M 0.5 - 10 km WSW of Anza, CA",
+        "place": "10 km WSW of Anza, CA",
+        "mag": 0.5,
+        "time": 1731427830570,
+        "updated": 1731432245967
+      }
+    },
+    {
+      "properties": {
+        "title": "M 1.7 - 33 km W of Nanwalek, Alaska",
+        "place": "33 km W of Nanwalek, Alaska",
+        "mag": 1.7,
+        "time": 1731427819945,
+        "updated": 1731427954214
+      }
+    },
+    {
+      "properties": {
+        "title": "M 5.5 - north of Ascension Island",
+        "place": "north of Ascension Island",
+        "mag": 5.5,
+        "time": 1731427722542,
+        "updated": 1731435038939
+      }
+    },
+    {
+      "properties": {
+        "title": "M 1.3 - 17 km WSW of Toms Place, CA",
+        "place": "17 km WSW of Toms Place, CA",
+        "mag": 1.31,
+        "time": 1731427464490,
+        "updated": 1731428537043
+      }
+    },
+    {
+      "properties": {
+        "title": "M 1.3 - 3 km WSW of Chico, Washington",
+        "place": "3 km WSW of Chico, Washington",
+        "mag": 1.29,
+        "time": 1731427055430,
+        "updated": 1731440784780
+      }
+    },
+    {
+      "properties": {
+        "title": "M 1.6 - 54 km NW of Toyah, Texas",
+        "place": "54 km NW of Toyah, Texas",
+        "mag": 1.6,
+        "time": 1731426679170,
+        "updated": 1731431262091
+      }
+    },
+    {
+      "properties": {
+        "title": "M 0.9 - 1 km NE of The Geysers, CA",
+        "place": "1 km NE of The Geysers, CA",
+        "mag": 0.94,
+        "time": 1731426179030,
+        "updated": 1731427770956
+      }
+    },
+    {
+      "properties": {
+        "title": "M 1.1 - 8 km NNW of The Geysers, CA",
+        "place": "8 km NNW of The Geysers, CA",
+        "mag": 1.14,
+        "time": 1731425532380,
+        "updated": 1731427037874
+      }
+    },
+    {
+      "properties": {
+        "title": "M 2.4 - 11 km NE of Pāhala, Hawaii",
+        "place": "11 km NE of Pāhala, Hawaii",
+        "mag": 2.3599999,
+        "time": 1731425360120,
+        "updated": 1731425487830
+      }
+    },
+    {
+      "properties": {
+        "title": "M 4.1 - 225 km ESE of Attu Station, Alaska",
+        "place": "225 km ESE of Attu Station, Alaska",
+        "mag": 4.1,
+        "time": 1731425173083,
+        "updated": 1731440647040
+      }
+    },
+    {
+      "properties": {
+        "title": "M 0.8 - 9 km WNW of Cobb, CA",
+        "place": "9 km WNW of Cobb, CA",
+        "mag": 0.81,
+        "time": 1731425106380,
+        "updated": 1731426439810
+      }
+    },
+    {
+      "properties": {
+        "title": "M 1.3 - 10 km SW of Anza, CA",
+        "place": "10 km SW of Anza, CA",
+        "mag": 1.31,
+        "time": 1731424659090,
+        "updated": 1731431984730
+      }
+    },
+    {
+      "properties": {
+        "title": "M 1.0 - 1 km NW of Cobb, CA",
+        "place": "1 km NW of Cobb, CA",
+        "mag": 1.03,
+        "time": 1731424428280,
+        "updated": 1731425837747
+      }
+    },
+    {
+      "properties": {
+        "title": "M 0.7 - 8 km SSW of Idyllwild, CA",
+        "place": "8 km SSW of Idyllwild, CA",
+        "mag": 0.69,
+        "time": 1731423080600,
+        "updated": 1731431931120
+      }
+    },
+    {
+      "properties": {
+        "title": "M 1.5 - 52 km ENE of Cantwell, Alaska",
+        "place": "52 km ENE of Cantwell, Alaska",
+        "mag": 1.5,
+        "time": 1731422469313,
+        "updated": 1731422587303
+      }
+    },
+    {
+      "properties": {
+        "title": "M 5.3 - 27 km SE of Kokopo, Papua New Guinea",
+        "place": "27 km SE of Kokopo, Papua New Guinea",
+        "mag": 5.3,
+        "time": 1731421919659,
+        "updated": 1731423409850
+      }
+    },
+    {
+      "properties": {
+        "title": "M 1.5 - 60 km S of Whites City, New Mexico",
+        "place": "60 km S of Whites City, New Mexico",
+        "mag": 1.5,
+        "time": 1731421627573,
+        "updated": 1731427775085
+      }
+    },
+    {
+      "properties": {
+        "title": "M 2.3 - 54 km E of Chenega, Alaska",
+        "place": "54 km E of Chenega, Alaska",
+        "mag": 2.3,
+        "time": 1731421054631,
+        "updated": 1731421177245
+      }
+    },
+    {
+      "properties": {
+        "title": "M 1.7 - 43 km NW of Ninilchik, Alaska",
+        "place": "43 km NW of Ninilchik, Alaska",
+        "mag": 1.7,
+        "time": 1731420344363,
+        "updated": 1731420463119
+      }
+    },
+    {
+      "properties": {
+        "title": "M 0.9 - 14 km WSW of Searles Valley, CA",
+        "place": "14 km WSW of Searles Valley, CA",
+        "mag": 0.89,
+        "time": 1731419856900,
+        "updated": 1731421643094
+      }
+    },
+    {
+      "properties": {
+        "title": "M 4.5 - 62 km E of Ōarai, Japan",
+        "place": "62 km E of Ōarai, Japan",
+        "mag": 4.5,
+        "time": 1731419330344,
+        "updated": 1731431954040
+      }
+    },
+    {
+      "properties": {
+        "title": "M 1.6 - 22 km WNW of Fishhook, Alaska",
+        "place": "22 km WNW of Fishhook, Alaska",
+        "mag": 1.6,
+        "time": 1731418936632,
+        "updated": 1731419046368
+      }
+    },
+    {
+      "properties": {
+        "title": "M 1.0 - 1 km N of The Geysers, CA",
+        "place": "1 km N of The Geysers, CA",
+        "mag": 0.95,
+        "time": 1731417831760,
+        "updated": 1731418935963
+      }
+    },
+    {
+      "properties": {
+        "title": "M 2.0 - 14 km NNW of Sutcliffe, Nevada",
+        "place": "14 km NNW of Sutcliffe, Nevada",
+        "mag": 2.0,
+        "time": 1731417587909,
+        "updated": 1731445746619
+      }
+    },
+    {
+      "properties": {
+        "title": "M 1.6 - 21 km NNW of Lima, Montana",
+        "place": "21 km NNW of Lima, Montana",
+        "mag": 1.62,
+        "time": 1731416927890,
+        "updated": 1731423319580
+      }
+    },
+    {
+      "properties": {
+        "title": "M 0.8 - 3 km SSW of Borrego Springs, CA",
+        "place": "3 km SSW of Borrego Springs, CA",
+        "mag": 0.75,
+        "time": 1731416719800,
+        "updated": 1731431880135
+      }
+    },
+    {
+      "properties": {
+        "title": "M 0.6 - 3 km NW of The Geysers, CA",
+        "place": "3 km NW of The Geysers, CA",
+        "mag": 0.57,
+        "time": 1731415323910,
+        "updated": 1731416969754
+      }
+    },
+    {
+      "properties": {
+        "title": "M 2.0 - 0 km SSW of Magas Arriba, Puerto Rico",
+        "place": "0 km SSW of Magas Arriba, Puerto Rico",
+        "mag": 2.0,
+        "time": 1731414781320,
+        "updated": 1731419522240
+      }
+    },
+    {
+      "properties": {
+        "title": "M 1.3 - 36 km NW of Stanton, Texas",
+        "place": "36 km NW of Stanton, Texas",
+        "mag": 1.3,
+        "time": 1731414241316,
+        "updated": 1731420940824
+      }
+    },
+    {
+      "properties": {
+        "title": "M 1.7 - 44 km NW of Petersville, Alaska",
+        "place": "44 km NW of Petersville, Alaska",
+        "mag": 1.7,
+        "time": 1731414150973,
+        "updated": 1731414279589
+      }
+    },
+    {
+      "properties": {
+        "title": "M 2.3 - 56 km S of Whites City, New Mexico",
+        "place": "56 km S of Whites City, New Mexico",
+        "mag": 2.3,
+        "time": 1731413859348,
+        "updated": 1731420181524
+      }
+    },
+    {
+      "properties": {
+        "title": "M 0.2 - 7 km NNW of The Geysers, CA",
+        "place": "7 km NNW of The Geysers, CA",
+        "mag": 0.24,
+        "time": 1731412846350,
+        "updated": 1731413840419
+      }
+    },
+    {
+      "properties": {
+        "title": "M 2.0 - 16 km SE of Fern Forest, Hawaii",
+        "place": "16 km SE of Fern Forest, Hawaii",
+        "mag": 1.98,
+        "time": 1731411830360,
+        "updated": 1731443406760
+      }
+    },
+    {
+      "properties": {
+        "title": "M 2.2 - 35 km SE of Alamo, Nevada",
+        "place": "35 km SE of Alamo, Nevada",
+        "mag": 2.2,
+        "time": 1731411799431,
+        "updated": 1731444453652
+      }
+    },
+    {
+      "properties": {
+        "title": "M 0.9 - 6 km SSE of Warner Springs, CA",
+        "place": "6 km SSE of Warner Springs, CA",
+        "mag": 0.85,
+        "time": 1731410533050,
+        "updated": 1731421666510
+      }
+    },
+    {
+      "properties": {
+        "title": "M 1.6 - 29 km WSW of Point MacKenzie, Alaska",
+        "place": "29 km WSW of Point MacKenzie, Alaska",
+        "mag": 1.6,
+        "time": 1731409846526,
+        "updated": 1731409940342
+      }
+    },
+    {
+      "properties": {
+        "title": "M 1.4 - 145 km W of Adak, Alaska",
+        "place": "145 km W of Adak, Alaska",
+        "mag": 1.38,
+        "time": 1731409817390,
+        "updated": 1731455151190
+      }
+    },
+    {
+      "properties": {
+        "title": "M 1.5 - 2 km NW of The Geysers, CA",
+        "place": "2 km NW of The Geysers, CA",
+        "mag": 1.48,
+        "time": 1731409292390,
+        "updated": 1731410240038
+      }
+    },
+    {
+      "properties": {
+        "title": "M 1.1 - 5 km WNW of Salcha, Alaska",
+        "place": "5 km WNW of Salcha, Alaska",
+        "mag": 1.1,
+        "time": 1731409094111,
+        "updated": 1731409222789
+      }
+    },
+    {
+      "properties": {
+        "title": "M 1.2 - 10 km NNE of Cabazon, CA",
+        "place": "10 km NNE of Cabazon, CA",
+        "mag": 1.17,
+        "time": 1731408368170,
+        "updated": 1731421666138
+      }
+    },
+    {
+      "properties": {
+        "title": "M 1.4 - 2 km WSW of Redlands, CA",
+        "place": "2 km WSW of Redlands, CA",
+        "mag": 1.41,
+        "time": 1731406898830,
+        "updated": 1731421667138
+      }
+    },
+    {
+      "properties": {
+        "title": "M 1.4 - 37 km NNW of Petersville, Alaska",
+        "place": "37 km NNW of Petersville, Alaska",
+        "mag": 1.4,
+        "time": 1731404834649,
+        "updated": 1731404925645
+      }
+    },
+    {
+      "properties": {
+        "title": "M 0.3 - 11 km SE of Anza, CA",
+        "place": "11 km SE of Anza, CA",
+        "mag": 0.27,
+        "time": 1731404749390,
+        "updated": 1731421682040
+      }
+    },
+    {
+      "properties": {
+        "title": "M 2.2 - 56 km S of Leilani Estates, Hawaii",
+        "place": "56 km S of Leilani Estates, Hawaii",
+        "mag": 2.15,
+        "time": 1731404500940,
+        "updated": 1731445664770
+      }
+    },
+    {
+      "properties": {
+        "title": "M 1.3 - 25 km E of Forsan, Texas",
+        "place": "25 km E of Forsan, Texas",
+        "mag": 1.3,
+        "time": 1731404093508,
+        "updated": 1731425926415
+      }
+    },
+    {
+      "properties": {
+        "title": "M 0.3 - 9 km NNW of The Geysers, CA",
+        "place": "9 km NNW of The Geysers, CA",
+        "mag": 0.28,
+        "time": 1731404044980,
+        "updated": 1731405136464
+      }
+    },
+    {
+      "properties": {
+        "title": "M 5.2 - 135 km W of Ternate, Indonesia",
+        "place": "135 km W of Ternate, Indonesia",
+        "mag": 5.2,
+        "time": 1731403466883,
+        "updated": 1731404386040
+      }
+    },
+    {
+      "properties": {
+        "title": "M 1.6 - 9 km S of Toyah, Texas",
+        "place": "9 km S of Toyah, Texas",
+        "mag": 1.6,
+        "time": 1731402432151,
+        "updated": 1731420907829
+      }
+    },
+    {
+      "properties": {
+        "title": "M 0.8 - 5 km NW of The Geysers, CA",
+        "place": "5 km NW of The Geysers, CA",
+        "mag": 0.79,
+        "time": 1731401620160,
+        "updated": 1731403039254
+      }
+    },
+    {
+      "properties": {
+        "title": "M 0.9 - 4 km WNW of Cobb, CA",
+        "place": "4 km WNW of Cobb, CA",
+        "mag": 0.86,
+        "time": 1731400588630,
+        "updated": 1731402568205
+      }
+    },
+    {
+      "properties": {
+        "title": "M 2.6 - 10 km WNW of Santo Domingo de los Colorados, Ecuador",
+        "place": "10 km WNW of Santo Domingo de los Colorados, Ecuador",
+        "mag": 2.6,
+        "time": 1731400528963,
+        "updated": 1731402193040
+      }
+    },
+    {
+      "properties": {
+        "title": "M 0.1 - 5 km WNW of Anza, CA",
+        "place": "5 km WNW of Anza, CA",
+        "mag": 0.05,
+        "time": 1731400422890,
+        "updated": 1731431532178
+      }
+    },
+    {
+      "properties": {
+        "title": "M 4.4 - 10 km NE of Gyalshing, India",
+        "place": "10 km NE of Gyalshing, India",
+        "mag": 4.4,
+        "time": 1731400235144,
+        "updated": 1731488504737
+      }
+    },
+    {
+      "properties": {
+        "title": "M 0.7 - 3 km NNW of The Geysers, CA",
+        "place": "3 km NNW of The Geysers, CA",
+        "mag": 0.73,
+        "time": 1731400109740,
+        "updated": 1731401671106
+      }
+    },
+    {
+      "properties": {
+        "title": "M 4.4 - 131 km WNW of Anamizu, Japan",
+        "place": "131 km WNW of Anamizu, Japan",
+        "mag": 4.4,
+        "time": 1731399200377,
+        "updated": 1731401359040
+      }
+    },
+    {
+      "properties": {
+        "title": "M 1.4 - 19 km NNE of Four Mile Road, Alaska",
+        "place": "19 km NNE of Four Mile Road, Alaska",
+        "mag": 1.4,
+        "time": 1731398890754,
+        "updated": 1731398998499
+      }
+    },
+    {
+      "properties": {
+        "title": "M 2.2 - 20 km SE of Pāhala, Hawaii",
+        "place": "20 km SE of Pāhala, Hawaii",
+        "mag": 2.20000005,
+        "time": 1731398614860,
+        "updated": 1731398739690
+      }
+    },
+    {
+      "properties": {
+        "title": "M 1.4 - 35 km WSW of Ackerly, Texas",
+        "place": "35 km WSW of Ackerly, Texas",
+        "mag": 1.4,
+        "time": 1731398357000,
+        "updated": 1731424483382
+      }
+    },
+    {
+      "properties": {
+        "title": "M 1.6 - 77 km E of Denali Park, Alaska",
+        "place": "77 km E of Denali Park, Alaska",
+        "mag": 1.6,
+        "time": 1731397992429,
+        "updated": 1731398098160
+      }
+    },
+    {
+      "properties": {
+        "title": "M 2.1 - 73 km E of Denali Park, Alaska",
+        "place": "73 km E of Denali Park, Alaska",
+        "mag": 2.1,
+        "time": 1731397432728,
+        "updated": 1731397533265
+      }
+    },
+    {
+      "properties": {
+        "title": "M 0.5 - 16 km S of Mammoth, Wyoming",
+        "place": "16 km S of Mammoth, Wyoming",
+        "mag": 0.47,
+        "time": 1731397069670,
+        "updated": 1731421443440
+      }
+    },
+    {
+      "properties": {
+        "title": "M 1.1 - 1 km NE of The Geysers, CA",
+        "place": "1 km NE of The Geysers, CA",
+        "mag": 1.09,
+        "time": 1731396161040,
+        "updated": 1731397337594
+      }
+    },
+    {
+      "properties": {
+        "title": "M 1.0 - 6 km ENE of Burlingame, CA",
+        "place": "6 km ENE of Burlingame, CA",
+        "mag": 1.03,
+        "time": 1731393993270,
+        "updated": 1731451036659
+      }
+    },
+    {
+      "properties": {
+        "title": "M 1.8 - 2 km NNE of The Geysers, CA",
+        "place": "2 km NNE of The Geysers, CA",
+        "mag": 1.79,
+        "time": 1731393856970,
+        "updated": 1731395367378
+      }
+    },
+    {
+      "properties": {
+        "title": "M 4.6 - 135 km NE of Kendari, Indonesia",
+        "place": "135 km NE of Kendari, Indonesia",
+        "mag": 4.6,
+        "time": 1731392792196,
+        "updated": 1731398855040
+      }
+    },
+    {
+      "properties": {
+        "title": "M 1.4 - 14 km E of Tilden, Texas",
+        "place": "14 km E of Tilden, Texas",
+        "mag": 1.4,
+        "time": 1731392176921,
+        "updated": 1731436602620
+      }
+    },
+    {
+      "properties": {
+        "title": "M 1.3 - 15 km NE of Pāhala, Hawaii",
+        "place": "15 km NE of Pāhala, Hawaii",
+        "mag": 1.26,
+        "time": 1731391929470,
+        "updated": 1731446128000
+      }
+    },
+    {
+      "properties": {
+        "title": "M 1.9 - 28 km SE of Pedro Bay, Alaska",
+        "place": "28 km SE of Pedro Bay, Alaska",
+        "mag": 1.9,
+        "time": 1731391822766,
+        "updated": 1731391947937
+      }
+    },
+    {
+      "properties": {
+        "title": "M 0.7 - 10 km NW of The Geysers, CA",
+        "place": "10 km NW of The Geysers, CA",
+        "mag": 0.7,
+        "time": 1731391585770,
+        "updated": 1731392836099
+      }
+    },
+    {
+      "properties": {
+        "title": "M 1.1 - 3 km WSW of Erlands Point-Kitsap Lake, Washington",
+        "place": "3 km WSW of Erlands Point-Kitsap Lake, Washington",
+        "mag": 1.1400000000000001,
+        "time": 1731391297990,
+        "updated": 1731439902460
+      }
+    },
+    {
+      "properties": {
+        "title": "M 4.7 - 126 km NE of Kendari, Indonesia",
+        "place": "126 km NE of Kendari, Indonesia",
+        "mag": 4.7,
+        "time": 1731391184532,
+        "updated": 1731398646040
+      }
+    },
+    {
+      "properties": {
+        "title": "M 1.4 - 30 km SSE of Virginia City, Montana",
+        "place": "30 km SSE of Virginia City, Montana",
+        "mag": 1.38,
+        "time": 1731390308200,
+        "updated": 1731455595620
+      }
+    },
+    {
+      "properties": {
+        "title": "M 2.2 - 58 km SW of Denali National Park, Alaska",
+        "place": "58 km SW of Denali National Park, Alaska",
+        "mag": 2.2,
+        "time": 1731389526181,
+        "updated": 1731389710000
+      }
+    },
+    {
+      "properties": {
+        "title": "M 1.2 - 14 km ENE of Cliffdell, Washington",
+        "place": "14 km ENE of Cliffdell, Washington",
+        "mag": 1.22,
+        "time": 1731389059770,
+        "updated": 1731434977360
+      }
+    },
+    {
+      "properties": {
+        "title": "M 3.6 - 140 km NNE of Vieques, Puerto Rico",
+        "place": "140 km NNE of Vieques, Puerto Rico",
+        "mag": 3.55,
+        "time": 1731388575970,
+        "updated": 1731389704628
+      }
+    },
+    {
+      "properties": {
+        "title": "M 2.0 - 12 km SE of Pāhala, Hawaii",
+        "place": "12 km SE of Pāhala, Hawaii",
+        "mag": 2.00999999,
+        "time": 1731388568990,
+        "updated": 1731388676460
+      }
+    },
+    {
+      "properties": {
+        "title": "M 2.4 - 13 km SW of Tyonek, Alaska",
+        "place": "13 km SW of Tyonek, Alaska",
+        "mag": 2.4,
+        "time": 1731388453971,
+        "updated": 1731402116502
+      }
+    },
+    {
+      "properties": {
+        "title": "M 1.1 - 13 km SSE of Salton City, CA",
+        "place": "13 km SSE of Salton City, CA",
+        "mag": 1.1,
+        "time": 1731388394450,
+        "updated": 1731431376240
+      }
+    },
+    {
+      "properties": {
+        "title": "M 2.2 - 21 km NNE of Aleneva, Alaska",
+        "place": "21 km NNE of Aleneva, Alaska",
+        "mag": 2.2,
+        "time": 1731387811883,
+        "updated": 1731387977913
+      }
+    },
+    {
+      "properties": {
+        "title": "M 1.6 - 16 km S of Cane Beds, Arizona",
+        "place": "16 km S of Cane Beds, Arizona",
+        "mag": 1.63,
+        "time": 1731385691170,
+        "updated": 1731421065400
+      }
+    },
+    {
+      "properties": {
+        "title": "M 2.2 - 40 km SSW of Skwentna, Alaska",
+        "place": "40 km SSW of Skwentna, Alaska",
+        "mag": 2.2,
+        "time": 1731383945807,
+        "updated": 1731384113817
+      }
+    },
+    {
+      "properties": {
+        "title": "M 1.0 - 9 km NNW of The Geysers, CA",
+        "place": "9 km NNW of The Geysers, CA",
+        "mag": 1.04,
+        "time": 1731383893220,
+        "updated": 1731385037192
+      }
+    },
+    {
+      "properties": {
+        "title": "M 1.7 - 12 km NW of Aguanga, CA",
+        "place": "12 km NW of Aguanga, CA",
+        "mag": 1.72,
+        "time": 1731383797920,
+        "updated": 1731421733510
+      }
+    },
+    {
+      "properties": {
+        "title": "M 0.6 - 61 km WNW of Beluga, Alaska",
+        "place": "61 km WNW of Beluga, Alaska",
+        "mag": 0.6,
+        "time": 1731383504142,
+        "updated": 1731383620785
+      }
+    },
+    {
+      "properties": {
+        "title": "M 1.2 - 2 km SE of Gardendale, Texas",
+        "place": "2 km SE of Gardendale, Texas",
+        "mag": 1.2,
+        "time": 1731383482784,
+        "updated": 1731423049529
+      }
+    },
+    {
+      "properties": {
+        "title": "M 2.1 - 6 km NNE of Pāhala, Hawaii",
+        "place": "6 km NNE of Pāhala, Hawaii",
+        "mag": 2.0999999,
+        "time": 1731383025270,
+        "updated": 1731383111890
+      }
+    },
+    {
+      "properties": {
+        "title": "M 1.1 - 3 km NW of The Geysers, CA",
+        "place": "3 km NW of The Geysers, CA",
+        "mag": 1.09,
+        "time": 1731382864820,
+        "updated": 1731383837062
+      }
+    },
+    {
+      "properties": {
+        "title": "M 0.8 - 5 km NNW of Aguanga, CA",
+        "place": "5 km NNW of Aguanga, CA",
+        "mag": 0.75,
+        "time": 1731382529890,
+        "updated": 1731430784419
+      }
+    },
+    {
+      "properties": {
+        "title": "M 1.7 - 7 km SSW of Seal Beach, CA",
+        "place": "7 km SSW of Seal Beach, CA",
+        "mag": 1.71,
+        "time": 1731381861610,
+        "updated": 1731430298669
+      }
+    },
+    {
+      "properties": {
+        "title": "M 1.3 - 41 km NW of Mentasta Lake, Alaska",
+        "place": "41 km NW of Mentasta Lake, Alaska",
+        "mag": 1.3,
+        "time": 1731381713129,
+        "updated": 1731381822386
+      }
+    },
+    {
+      "properties": {
+        "title": "M 1.1 - 8 km WNW of Cobb, CA",
+        "place": "8 km WNW of Cobb, CA",
+        "mag": 1.06,
+        "time": 1731380689640,
+        "updated": 1731382636914
+      }
+    },
+    {
+      "properties": {
+        "title": "M 2.1 - 7 km S of Pāhala, Hawaii",
+        "place": "7 km S of Pāhala, Hawaii",
+        "mag": 2.1400001,
+        "time": 1731380551570,
+        "updated": 1731380649650
+      }
+    },
+    {
+      "properties": {
+        "title": "M 0.7 - 9 km NNW of The Geysers, CA",
+        "place": "9 km NNW of The Geysers, CA",
+        "mag": 0.7,
+        "time": 1731380453630,
+        "updated": 1731382034840
+      }
+    },
+    {
+      "properties": {
+        "title": "M 2.6 - 61 km SSE of King Salmon, Alaska",
+        "place": "61 km SSE of King Salmon, Alaska",
+        "mag": 2.6,
+        "time": 1731379649616,
+        "updated": 1731457646040
+      }
+    },
+    {
+      "properties": {
+        "title": "M 1.5 - 27 km WNW of Nikiski, Alaska",
+        "place": "27 km WNW of Nikiski, Alaska",
+        "mag": 1.5,
+        "time": 1731377245263,
+        "updated": 1731377393820
+      }
+    },
+    {
+      "properties": {
+        "title": "M 1.7 - 70 km E of Port Alsworth, Alaska",
+        "place": "70 km E of Port Alsworth, Alaska",
+        "mag": 1.7,
+        "time": 1731377028435,
+        "updated": 1731377136707
+      }
+    },
+    {
+      "properties": {
+        "title": "M 1.8 - 31 km NW of Valdez, Alaska",
+        "place": "31 km NW of Valdez, Alaska",
+        "mag": 1.8,
+        "time": 1731376836030,
+        "updated": 1731376946561
+      }
+    },
+    {
+      "properties": {
+        "title": "M 1.2 - 6 km NE of Westmorland, CA",
+        "place": "6 km NE of Westmorland, CA",
+        "mag": 1.2,
+        "time": 1731375558060,
+        "updated": 1731427574979
+      }
+    },
+    {
+      "properties": {
+        "title": "M 4.3 - 234 km E of Levuka, Fiji",
+        "place": "234 km E of Levuka, Fiji",
+        "mag": 4.3,
+        "time": 1731375535943,
+        "updated": 1731456606040
+      }
+    },
+    {
+      "properties": {
+        "title": "M 3.0 - 264 km SE of Chiniak, Alaska",
+        "place": "264 km SE of Chiniak, Alaska",
+        "mag": 3.0,
+        "time": 1731374766230,
+        "updated": 1731454585040
+      }
+    },
+    {
+      "properties": {
+        "title": "M 1.0 - 19 km WSW of Toms Place, CA",
+        "place": "19 km WSW of Toms Place, CA",
+        "mag": 1.0,
+        "time": 1731374755050,
+        "updated": 1731449775985
+      }
+    },
+    {
+      "properties": {
+        "title": "M 4.2 - 11 km NE of Denman, Australia",
+        "place": "11 km NE of Denman, Australia",
+        "mag": 4.2,
+        "time": 1731373977120,
+        "updated": 1731488263083
+      }
+    },
+    {
+      "properties": {
+        "title": "M 2.8 - 2 km NW of Point Arena, CA",
+        "place": "2 km NW of Point Arena, CA",
+        "mag": 2.79,
+        "time": 1731373964830,
+        "updated": 1731466579216
+      }
+    },
+    {
+      "properties": {
+        "title": "M 1.4 - 22 km ESE of Minto, Alaska",
+        "place": "22 km ESE of Minto, Alaska",
+        "mag": 1.4,
+        "time": 1731373642336,
+        "updated": 1731373764337
+      }
+    },
+    {
+      "properties": {
+        "title": "M 2.4 - 6 km W of Fuig, Puerto Rico",
+        "place": "6 km W of Fuig, Puerto Rico",
+        "mag": 2.36,
+        "time": 1731373422440,
+        "updated": 1731374734700
+      }
+    },
+    {
+      "properties": {
+        "title": "M 2.0 - 35 km SE of Ugashik, Alaska",
+        "place": "35 km SE of Ugashik, Alaska",
+        "mag": 2.0,
+        "time": 1731373386196,
+        "updated": 1731373488445
+      }
+    },
+    {
+      "properties": {
+        "title": "M 3.3 - 151 km NNE of Vieques, Puerto Rico",
+        "place": "151 km NNE of Vieques, Puerto Rico",
+        "mag": 3.34,
+        "time": 1731373261080,
+        "updated": 1731374867230
+      }
+    },
+    {
+      "properties": {
+        "title": "M 1.9 - 29 km WNW of Valdez, Alaska",
+        "place": "29 km WNW of Valdez, Alaska",
+        "mag": 1.9,
+        "time": 1731373228180,
+        "updated": 1731373311351
+      }
+    },
+    {
+      "properties": {
+        "title": "M 2.8 - 7 km ESE of La Parguera, Puerto Rico",
+        "place": "7 km ESE of La Parguera, Puerto Rico",
+        "mag": 2.82,
+        "time": 1731373175440,
+        "updated": 1731374764130
+      }
+    },
+    {
+      "properties": {
+        "title": "M 2.0 - 2 km S of Pāhala, Hawaii",
+        "place": "2 km S of Pāhala, Hawaii",
+        "mag": 1.98000002,
+        "time": 1731373137550,
+        "updated": 1731373232790
+      }
+    },
+    {
+      "properties": {
+        "title": "M 1.9 - 35 km WNW of Susitna, Alaska",
+        "place": "35 km WNW of Susitna, Alaska",
+        "mag": 1.9,
+        "time": 1731372427737,
+        "updated": 1731372569655
+      }
+    },
+    {
+      "properties": {
+        "title": "M 0.5 - 11 km SE of Anza, CA",
+        "place": "11 km SE of Anza, CA",
+        "mag": 0.45,
+        "time": 1731372407650,
+        "updated": 1731426817616
+      }
+    },
+    {
+      "properties": {
+        "title": "M 2.2 - 7 km S of Pāhala, Hawaii",
+        "place": "7 km S of Pāhala, Hawaii",
+        "mag": 2.16000009,
+        "time": 1731372224940,
+        "updated": 1731372389320
+      }
+    },
+    {
+      "properties": {
+        "title": "M 1.6 - 12 km ENE of Fox, Alaska",
+        "place": "12 km ENE of Fox, Alaska",
+        "mag": 1.6,
+        "time": 1731372175365,
+        "updated": 1731372289445
+      }
+    },
+    {
+      "properties": {
+        "title": "M 1.5 - 48 km SSE of Glacier View, Alaska",
+        "place": "48 km SSE of Glacier View, Alaska",
+        "mag": 1.5,
+        "time": 1731371543890,
+        "updated": 1731371666758
+      }
+    },
+    {
+      "properties": {
+        "title": "M 1.2 - 1 km W of Erlands Point-Kitsap Lake, Washington",
+        "place": "1 km W of Erlands Point-Kitsap Lake, Washington",
+        "mag": 1.19,
+        "time": 1731371448980,
+        "updated": 1731434598260
+      }
+    },
+    {
+      "properties": {
+        "title": "M 1.3 Quarry Blast - 6 km NNW of Boron, CA",
+        "place": "6 km NNW of Boron, CA",
+        "mag": 1.33,
+        "time": 1731370135460,
+        "updated": 1731426216627
+      }
+    }
+  ]
+}

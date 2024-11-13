@@ -1,0 +1,49 @@
+continents:
+  - name: Africa
+    slug: africa
+    min_latitude: -37.3
+    max_latitude: 37.5
+    min_longitude: -17.5
+    max_longitude: 51.5
+
+  - name: Antarctica
+    slug: antarctica
+    min_latitude: -90
+    max_latitude: -60
+    min_longitude: -180
+    max_longitude: 180
+
+  - name: Asia
+    slug: asia
+    min_latitude: 10
+    max_latitude: 80
+    min_longitude: 60
+    max_longitude: -170
+
+  - name: Australia (Oceania)
+    slug: australia-oceania
+    min_latitude: -50
+    max_latitude: 0
+    min_longitude: 113
+    max_longitude: 180
+
+  - name: Europe
+    slug: europe
+    min_latitude: 35
+    max_latitude: 72
+    min_longitude: -25
+    max_longitude: 40
+
+  - name: North America
+    slug: north-america
+    min_latitude: 30
+    max_latitude: 83
+    min_longitude: -168
+    max_longitude: -60
+
+  - name: South America
+    slug: south-america
+    min_latitude: -56
+    max_latitude: 12
+    min_longitude: -35
+    max_longitude: -35
